@@ -1,0 +1,47 @@
+******************** Setup project file ********************
+
+
+- Required NetBeans IDE and a MySql server to run this project.
+
+
+- Project should open on Netbeans IDE.
+
+
+- Create a DB named "stockgame1" on MySql server and import the given DB to it.
+
+
+- In the opened project file on NetBeans IDE, 
+	goto, Other Sources --> src/main/resources --> <default package> --> application.properties and 
+	setup DB url(named as stockgame1), DB user name and DB password according to mySql DB.
+
+
+- Right click on the project file on netBeans IDE --> Reload POM
+	(to update the repository as this is a Mevan project)
+
+
+- If there are any errors in, Web Pages --> resources --> css/Bootstrap files, ignore it.
+
+
+- Right click on the project file on netBeans IDE --> Properties --> on "Run" tab --> 
+	select a server (Recommonded - GlassFish Server)
+
+
+-Right click on the project file on netBeans IDE --> Build
+
+
+-Right click on the project file on netBeans IDE --> Run
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+******************** How to play the game ********************
+
+
+- First signup and then login to the game.
+
+
+- Select the playing type, self player or machine player and click "Join".
+
+
+- Then Buy new stocks or sell your previously owned stocks and repeat it on each round.

@@ -1,0 +1,36 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jun 16, 2018, 9:53:50 PM
+    Author     : Vishwa
+#4CAF50
+*/
+
+.buttonbuy {
+    background-color: #0b920b ;
+    border: none;
+    color: white;
+    padding: 25px 45px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.buttonsell {
+    background-color: #d82b67 ;
+    border: none;
+    color: white;
+    padding: 25px 45px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
